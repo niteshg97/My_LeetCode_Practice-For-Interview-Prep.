@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
