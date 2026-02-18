@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
