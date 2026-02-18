@@ -4,9 +4,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
