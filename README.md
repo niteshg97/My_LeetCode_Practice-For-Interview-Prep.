@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
+| [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
+## Simulation
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
