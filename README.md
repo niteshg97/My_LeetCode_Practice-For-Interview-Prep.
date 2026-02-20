@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
