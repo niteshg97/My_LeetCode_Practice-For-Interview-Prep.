@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -129,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0867-transpose-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
