@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0704-binary-search) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0867-transpose-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
