@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -176,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
