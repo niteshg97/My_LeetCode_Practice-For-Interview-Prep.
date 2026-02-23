@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
