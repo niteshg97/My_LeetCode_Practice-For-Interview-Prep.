@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0092-reverse-linked-list-ii) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
 ## Design
 |  |
