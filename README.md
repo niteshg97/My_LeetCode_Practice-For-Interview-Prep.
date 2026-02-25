@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0009-palindrome-number) |
+| [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
+| [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
 ## Recursion
@@ -205,8 +207,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
