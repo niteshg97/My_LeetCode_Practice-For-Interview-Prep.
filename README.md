@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
 ## Bit Manipulation
 |  |
