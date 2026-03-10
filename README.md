@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
+| [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
+| [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
 ## Heap (Priority Queue)
 |  |
