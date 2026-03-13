@@ -1,3 +1,5 @@
+// method 1:-> Brute Forec Approch 
+
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
