@@ -1,4 +1,5 @@
-// m-1 Brute force Approach ..we will optimixe latter
+// m-1 Brute force Approach ..we will optimixe latter 
+// T.c O(4 n*m) ~ o(n*m) --> wrost case scenario..
 
 class Solution {
 public:
