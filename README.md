@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0151-reverse-words-in-a-string) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
 ## Depth-First Search
