@@ -1,21 +1,22 @@
+// count method To Solve this Problem.
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-
-        if(s.size() != t.size()) return false;
-
-        vector<int> count(26, 0);
-
-        for(int i = 0; i < s.size(); i++){
-            count[s[i] - 'a']++;   // increase for s
-            count[t[i] - 'a']--;   // decrease for t
+        vector<int>count(26,0);
+        int n=s.size();
+        int m=t.size();
+        if(m!=n) return false ;
+        
+        for(int i=0;i<n;i++){
+            count[s[i]-'a']++;
+            count[t[i]-'a']--;
         }
-
-        for(int i = 0; i < 26; i++){
-            if(count[i] != 0)
-                return false;
+       for(int i=0;i<26;i++){
+            if (count[i]!=0){
+                return false ;
+            }
         }
-
-        return true;
+        return true ;
+        
     }
 };
