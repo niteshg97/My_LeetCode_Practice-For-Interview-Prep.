@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Backtracking
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 ## Tree
 |  |
@@ -303,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
