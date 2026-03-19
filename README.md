@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0205-isomorphic-strings) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0151-reverse-words-in-a-string) |
