@@ -2,7 +2,7 @@ class Solution {
 public:
     int romanToInt(string s) {
         int n = s.size();
-        map<char, int> mp;
+        unordered_map<char, int> mp;
         mp['I'] = 1;
         mp['V'] = 5;
         mp['X'] = 10;
