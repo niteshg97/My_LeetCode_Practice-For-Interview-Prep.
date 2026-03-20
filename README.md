@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0014-longest-common-prefix) |
