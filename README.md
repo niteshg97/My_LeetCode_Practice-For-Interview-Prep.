@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
