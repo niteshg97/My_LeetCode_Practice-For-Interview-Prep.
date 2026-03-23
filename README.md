@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
 ## Design
