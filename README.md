@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0704-binary-search](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0704-binary-search) |
+| [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+| [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
+| [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
