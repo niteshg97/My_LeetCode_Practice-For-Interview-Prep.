@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+| [1207-unique-number-of-occurrences](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
