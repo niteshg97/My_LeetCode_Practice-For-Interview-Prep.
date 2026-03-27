@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1922-count-good-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
 ## Sorting
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
