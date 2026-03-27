@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 ## Memoization
