@@ -6,6 +6,8 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ // M-1: brute Force Solutions:
+ 
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
