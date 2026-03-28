@@ -6,22 +6,30 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
- // M-1: brute Force Solutions:
- 
+
+ // m:2 Tortoise and the Here method 
+ // first detect the loop and then find the statring Node 
+
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        map<ListNode* ,int>mpp;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            if(mpp.find(temp)!=mpp.end()){
-                return temp;
-            }
-            mpp[temp]++;
-            temp=temp->next;
+       ListNode* slow=head;
+       ListNode* fast=head;
+       while(fast!=NULL && fast->next!=NULL){
+        slow=slow->next;
+        fast=fast->next->next;
+        if(slow==fast){
+            slow=head;
+            while(slow!=fast){
+                slow=slow->next;
+                fast=fast->next;
 
+            }
+            return slow;
         }
-        return NULL;
+
+       }
+       return NULL;
         
     }
 };
