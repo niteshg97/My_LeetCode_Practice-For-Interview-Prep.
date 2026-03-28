@@ -6,21 +6,22 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ // method 2: using the Tortoise and the here method 
 
- // Method:1 to solve using the hashmap data structure.
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        map<ListNode* ,int>mpp;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            if(mpp.find(temp)!=mpp.end()){
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
+            if(fast==slow){
                 return true;
             }
-            mpp[temp]++;
-            temp=temp->next;
+
         }
-        return false;
-        
+        return false ;
+ 
     }
 };
