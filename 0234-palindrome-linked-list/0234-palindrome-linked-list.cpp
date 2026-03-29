@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// Method: 1
+// this is the Brute Force solution .. T.c=O(2N) and the S.C=O(N);
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
