@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 ## Hash Table
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0876-middle-of-the-linked-list) |
