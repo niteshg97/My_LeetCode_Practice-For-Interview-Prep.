@@ -8,25 +8,21 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- // lets solve using the Brute force approach first ... then we will optimize for the better sol.
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if (!head) return head;
-
-        ListNode* odd = head;
-        ListNode* even = head->next;
-        ListNode* evenHead = even;
-
-        while (even && even->next) {
-            odd->next = even->next;
-            odd = odd->next;
-
-            even->next = odd->next;
-            even = even->next;
+        if(head==NULL)return head;
+        ListNode* odd=head;
+        ListNode* even=head->next;
+        ListNode* evenHead=head->next;
+        while(even!=NULL && even->next!=NULL){
+            odd->next=odd->next->next;
+            even->next=even->next->next;
+            odd=odd->next;
+            even=even->next;
         }
+        odd->next=evenHead;
+        return head ;
 
-        odd->next = evenHead;
-        return head;
     }
 };
