@@ -8,32 +8,31 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
- // method : 1 , the time complexity is O(2N) and he space complexity is O(1):
- 
+ // method 2: two pointer approach to solve this problem ;
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int count=0;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            count++;
-            temp=temp->next;
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        for (int i = 0; i < n; i++) {
+            fast = fast->next;
         }
-        if(count ==n){
-            ListNode* newHead=head->next;
+        if (fast == NULL) {
+            ListNode* newHead = head->next;
+            delete head;
             return newHead;
         }
-        int res=count-n;
-        temp=head;
-        while(temp!=NULL){
-            res--;
-            if(res==0) break;
-            temp=temp->next;
+
+        while (fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next;
         }
-        ListNode* del=temp->next;
-        temp->next=temp->next->next;
+
+        ListNode* del = slow->next;
+        slow->next = slow->next->next;
         delete del;
-        return head; 
+
+        return head;
     }
 };
