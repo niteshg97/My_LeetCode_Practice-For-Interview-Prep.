@@ -6,26 +6,24 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
- // method 1: using the HashMap Data structure 
+ // method 2:using the one pass 
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        map<ListNode*,int>mp;
-        ListNode*tempA=headA;
-        ListNode* tempB=headB;
-        while( tempA!=NULL){
-            mp[tempA]++;
-            tempA=tempA->next;
+        ListNode* tempA = headA;
+        ListNode* tempB = headB;
+
+        if (headA == NULL || headB == NULL) return NULL;
+
+        while (tempA != tempB) {
+            
+            if (tempA == NULL) tempA = headB;
+            else tempA = tempA->next;
+
+            if (tempB == NULL) tempB = headA;
+            else tempB = tempB->next;
         }
-        while(tempB!=NULL){
-            if(mp.find(tempB)!=mp.end()){
-                return tempB;
-            }
-            tempB=tempB->next;
-        }
-        return NULL;
-        
-        
+
+        return tempA; 
     }
 };
