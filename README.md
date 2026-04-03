@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0141-linked-list-cycle) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0142-linked-list-cycle-ii) |
