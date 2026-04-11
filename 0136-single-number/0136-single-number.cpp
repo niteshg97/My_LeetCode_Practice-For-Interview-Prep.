@@ -1,4 +1,4 @@
-// m:2 using the Xor  Approach .. to Solve this problem 
+// m:2 using the Xor  Approach .. to Solve this problem T.C is O(N);
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
