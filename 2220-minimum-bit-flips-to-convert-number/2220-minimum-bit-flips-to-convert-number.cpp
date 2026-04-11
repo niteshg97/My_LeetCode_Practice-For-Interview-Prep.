@@ -6,7 +6,7 @@ public:
         cout<<ans;
         int count =0;
         while(ans>0){
-        if(ans%2!=0){
+        if(ans%2==1){
             count++;
             }
             ans=ans/2;
