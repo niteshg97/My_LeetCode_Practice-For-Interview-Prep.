@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0231-power-of-two) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2220-minimum-bit-flips-to-convert-number) |
