@@ -3,12 +3,14 @@ public:
     int minBitFlips(int start, int goal) {
         // take XOR of the both no and the count the total no of set bits ....
         int ans = start ^ goal ;
+        cout<<ans;
         int count =0;
-        for(int i=0;i<31;i++){
-            if( ans & (1<<i)){
-                count ++;
+        while(ans>0){
+        if(ans%2!=0){
+            count++;
             }
+            ans=ans/2;
         }
-        return count;
+        return count ;
     }
 };
