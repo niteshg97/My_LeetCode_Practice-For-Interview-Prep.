@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0231-power-of-two) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Queue
 |  |
 | ------- |
