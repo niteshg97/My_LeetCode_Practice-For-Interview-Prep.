@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
 ## Prefix Sum
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
