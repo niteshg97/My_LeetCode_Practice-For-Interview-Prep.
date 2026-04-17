@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
 ## Number Theory
 |  |
