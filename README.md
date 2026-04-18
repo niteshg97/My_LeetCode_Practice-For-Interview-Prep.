@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
+| [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
+| [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
