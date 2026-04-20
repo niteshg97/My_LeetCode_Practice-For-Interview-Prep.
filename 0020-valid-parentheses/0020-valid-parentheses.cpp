@@ -11,8 +11,7 @@ public:
                 if(st.empty()) return false;
                 char ch =st.top();
                 st.pop();
-                if(s[i]==')' && ch=='(' || s[i]==']' && ch=='[' || s[i]=='}' && ch=='{'){
-                    
+                if(s[i]==')' && ch=='(' || s[i]==']' && ch=='[' || s[i]=='}' && ch=='{'){ 
                 }
                 else{
                     return false;
