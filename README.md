@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
