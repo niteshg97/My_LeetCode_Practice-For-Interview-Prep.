@@ -1,31 +1,30 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n=height.size();
-        int prev[n];
-        prev[0]=-1;
-        int max =height[0];
-        for (int i=1;i<n;i++){
-            prev[i]=max;
-            if (max<height[i]) max = height[i];
+        int n = height.size();
+        int left = 0, right = n - 1;
 
-        }
-        // next graetet elements -> as pervious 
-        prev[n-1]=-1;
-        max =height[n-1];
-        for ( int i=n-2;i>=0;i--){
-            if (max<prev[i]) prev[i]=max;
-            if (max<height[i]) max = height[i];
+        int leftMax = 0, rightMax = 0;
+        int total = 0;
 
-        }
-        // calculatng water 
-        int water =0;
-          for (int i=1;i<n-1;i++){
-            if(height[i]<prev[i]){
-                water+=(prev[i]-height[i]);
+        while (left < right) {
+            if (height[left] < height[right]) {
+                if (height[left] >= leftMax) {
+                    leftMax = height[left];
+                } else {
+                    total += leftMax - height[left];
+                }
+                left++;
+            } else {
+                if (height[right] >= rightMax) {
+                    rightMax = height[right];
+                } else {
+                    total += rightMax - height[right];
+                }
+                right--;
             }
-          }
-          return water;
-        
+        }
+
+        return total;
     }
 };
