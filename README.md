@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
