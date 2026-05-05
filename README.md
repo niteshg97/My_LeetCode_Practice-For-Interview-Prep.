@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0441-arranging-coins) |
 | [0470-implement-rand10-using-rand7](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0470-implement-rand10-using-rand7) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
@@ -475,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0470-implement-rand10-using-rand7) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
