@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0231-power-of-two) |
