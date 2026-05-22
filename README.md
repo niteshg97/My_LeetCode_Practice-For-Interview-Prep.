@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
