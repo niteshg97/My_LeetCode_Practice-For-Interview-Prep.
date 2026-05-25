@@ -10,8 +10,8 @@ public:
         mp[0] = 1;
         for (auto it : nums) {
             sum = sum + it;
-            if (mp.find(sum - goal) != mp.end()) {
-                count += mp[sum - goal];
+            if (mp.find(sum - goal) != mp.end()) {//{ oldPrefixSum = currentSum - goal}
+                count += mp[sum - goal]; 
             }
             mp[sum]++;
         }
