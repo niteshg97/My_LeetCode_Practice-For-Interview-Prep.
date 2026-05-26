@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
+| [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1922-count-good-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
 ## Heap (Priority Queue)
 |  |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
 ## Enumeration
 |  |
 | ------- |
