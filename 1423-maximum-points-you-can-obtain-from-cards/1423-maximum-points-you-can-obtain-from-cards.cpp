@@ -1,3 +1,5 @@
+// time complexity = O(2N) and the space complexity is  o(1):--> efficient solution 
+
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
