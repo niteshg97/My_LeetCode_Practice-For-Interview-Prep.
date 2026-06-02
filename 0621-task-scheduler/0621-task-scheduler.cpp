@@ -28,3 +28,6 @@ public:
         return tasks.size();
     }
 };
+
+
+// T.c= o(25log(25) + 25 log(25) + no of slots)
