@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0460-lfu-cache](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
@@ -495,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
