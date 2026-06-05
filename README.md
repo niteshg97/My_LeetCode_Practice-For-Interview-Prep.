@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0622-design-circular-queue) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
