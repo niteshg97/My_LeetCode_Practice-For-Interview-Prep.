@@ -10,6 +10,7 @@ public:
             } else if (s[i] == '*') {
                 astriskSt.push(i);
             } else {
+                // first match with open if not present match with *
                 if (!openSt.empty()) {
                     openSt.pop();
                 } else if (!astriskSt.empty()) {
@@ -19,7 +20,7 @@ public:
                 }
             }
         }
-
+        // check if star appears before (
         while (!openSt.empty() && !astriskSt.empty()) {
             if (openSt.top() > astriskSt.top()) {
                 return false;
