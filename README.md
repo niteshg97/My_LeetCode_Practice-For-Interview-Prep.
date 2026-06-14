@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0056-merge-intervals) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0402-remove-k-digits) |
