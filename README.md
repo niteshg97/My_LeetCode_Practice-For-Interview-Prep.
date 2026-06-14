@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0078-subsets) |
