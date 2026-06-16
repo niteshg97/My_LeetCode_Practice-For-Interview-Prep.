@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2149-rearrange-array-elements-by-sign) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2446-determine-if-two-events-have-conflict) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2446-determine-if-two-events-have-conflict) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
 ## Depth-First Search
 |  |
