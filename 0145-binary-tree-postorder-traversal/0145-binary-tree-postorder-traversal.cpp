@@ -10,21 +10,17 @@
  * right(right) {}
  * };
  */
-// in post order traversal :  left ---> right ----> root
 class Solution {
 public:
-    void PostOrder(TreeNode* root, vector<int>& result) {
-        if (root == NULL) {
-            return;
-        } else {
-            PostOrder(root->left, result);
-            PostOrder(root->right , result );
-            result.push_back(root->val);
-        }
-    }
+    vector<int> v;
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> result;
-        PostOrder(root, result);
-        return result;
+        if (root == NULL) {
+            return v;
+        }
+        postorderTraversal(root->left);
+        postorderTraversal(root->right);
+        v.push_back(root->val);
+
+        return v;
     }
 };
