@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0538-convert-bst-to-greater-tree) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0538-convert-bst-to-greater-tree) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0538-convert-bst-to-greater-tree) |
