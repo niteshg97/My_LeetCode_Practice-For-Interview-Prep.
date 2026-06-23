@@ -31,6 +31,9 @@ public:
         return max(koi_ek_accha,only_root_accha);
     }
     int maxPathSum(TreeNode* root) {
+        if (root == NULL) {
+            return 0;
+        }
         maxSum = INT_MIN;
         solve(root);
         return maxSum;
