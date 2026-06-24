@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0950-reveal-cards-in-increasing-order) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0145-binary-tree-postorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
