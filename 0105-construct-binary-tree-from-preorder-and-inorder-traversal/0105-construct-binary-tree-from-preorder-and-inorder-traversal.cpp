@@ -23,56 +23,45 @@ and call a solve function (root->left, start , i-1);
 and for right solve function(root->right, i+1 ,end )
 */
 
-
 // method -1: TC=O(N^2)
-
 
 class Solution {
 public:
-    // idx ko reference (&) se pass kar rahe hain taaki
-    // preorder ka next root har recursive call me update ho.
-    TreeNode* solve(vector<int>& preorder, vector<int>& inorder, int start,
-                    int end, int& idx) {
-
-        // Base Case:
-        // Agar start end se bada ho gaya,
-        // matlab is subtree me koi node nahi hai.
+    // Inorder ke value -> index store karne ke liye
+    unordered_map<int, int> mp;
+    // idx preorder ka current root batayega
+    TreeNode* solve(vector<int>& preorder, int start, int end, int& idx) {
+        // Base Case
         if (start > end)
             return NULL;
 
-        // Preorder ka current element hi root hoga.
+        // Preorder ka current element root hai
         int rootVal = preorder[idx];
-
-        // Agle recursive call ke liye idx badha do.
         idx++;
-
-        // Root node bana do.
+        // Root node bana do
         TreeNode* root = new TreeNode(rootVal);
 
-        // Inorder me root ki position dhoondo.
-        int i;
+        // O(1) me inorder index mil jayega
+        int rootIndex = mp[rootVal];
 
-        for (i = start; i <= end; i++) {
-            if (inorder[i] == rootVal)
-                break;
-        }
+        // Left subtree
+        root->left = solve(preorder, start, rootIndex - 1, idx);
 
-        // Root ke left side wale elements
-        // left subtree banayenge.
-        root->left = solve(preorder, inorder, start, i - 1, idx);
-
-        // Root ke right side wale elements
-        // right subtree banayenge.
-        root->right = solve(preorder, inorder, i + 1, end, idx);
+        // Right subtree
+        root->right = solve(preorder, rootIndex + 1, end, idx);
 
         return root;
     }
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
 
-        // Preorder ka first element root hota hai.
+        // Inorder ke sabhi elements ka index store kar lo
+        for (int i = 0; i < inorder.size(); i++) {
+            mp[inorder[i]] = i;
+        }
+
         int idx = 0;
 
-        return solve(preorder, inorder, 0, preorder.size() - 1, idx);
+        return solve(preorder, 0, inorder.size() - 1, idx);
     }
 };
