@@ -23,6 +23,10 @@ and call a solve function (root->left, start , i-1);
 and for right solve function(root->right, i+1 ,end )
 */
 
+
+// method -1: TC=O(N^2)
+
+
 class Solution {
 public:
     // idx ko reference (&) se pass kar rahe hain taaki
