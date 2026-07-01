@@ -12,20 +12,15 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-
-        // Tree empty hai
-        if (root == NULL)
-            return NULL;
-
-        // Mil gaya
+        if( root == NULL ) return NULL ; 
         if (root->val == val)
             return root;
-
-        // Chhota hai to left me jao
-        if (val < root->val)
-            return searchBST(root->left, val);
-
-        // Bada hai to right me jao
-        return searchBST(root->right, val);
+        if(root->val > val){
+            return searchBST(root->left , val);
+        }
+        else{
+            return searchBST(root->right , val);
+        }
+        
     }
 };
