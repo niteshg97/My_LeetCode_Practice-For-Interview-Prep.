@@ -11,21 +11,24 @@
  * };
  */
 // inorder traversal ... left Root .. right
+
+// in inordertraversal  the array is sorted
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int>&res) {
-        if(root==NULL) return ;
-        solve(root->left , res);
+    void solve(TreeNode* root, vector<int>& res) {
+        if (root == NULL)
+            return;
+        solve(root->left, res);
         res.push_back(root->val);
-        solve(root->right , res);
-           
+        solve(root->right, res);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>res;
+        vector<int> res;
         if (root == NULL)
             return NULL;
 
-        solve(root, res);;
-        return res[k-1];
+        solve(root, res);
+        ;
+        return res[k - 1];
     }
 };
