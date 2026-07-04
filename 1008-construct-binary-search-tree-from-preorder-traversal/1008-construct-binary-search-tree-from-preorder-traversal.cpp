@@ -28,11 +28,9 @@ public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
 
         TreeNode* root = NULL;
-
         for (int val : preorder) {
             root = insert(root, val);
         }
-
         return root;
     }
 };
