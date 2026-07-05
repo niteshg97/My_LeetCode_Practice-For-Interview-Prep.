@@ -15,24 +15,22 @@
 
 class Solution {
 public:
+
     vector<int> v;
+
     void InorderTraversal(TreeNode* root) {
         if(root == NULL)
             return;
-
         InorderTraversal(root->left);
         v.push_back(root->val);
         InorderTraversal(root->right);
     }
-
     bool findTarget(TreeNode* root, int k) {
 
         if(root == NULL)
             return false;
-
         // BST ko sorted vector me convert karo
         InorderTraversal(root);
-
         // Har pair check karo
         for(int i = 0; i < v.size(); i++) {
 
@@ -42,7 +40,6 @@ public:
                     return true;
             }
         }
-
         return false;
     }
 };
