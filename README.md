@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0907-sum-of-subarray-minimums) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
 ## Recursion
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0701-insert-into-a-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
