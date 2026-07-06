@@ -29,37 +29,79 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ * };
+ */
+
 class Solution {
-    int ans = 0;
-    struct Info{
-        bool isBst;
-        int sum;
-        int mx;
-        int mn;
+public:
+
+    // Final answer
+    int maxSum = 0;
+
+    // Har subtree ke baare me ye information return hogi
+    struct NodeInfo {
+
+        bool isBST;     // Kya subtree BST hai?
+
+        int sum;        // Subtree ka sum
+
+        int minValue;   // Minimum value
+
+        int maxValue;   // Maximum value
     };
 
-    Info find(TreeNode* root){
-        if(root == NULL) return {1, 0, INT_MIN, INT_MAX};
+    NodeInfo solve(TreeNode* root) {
 
-        struct Info left = find(root->left);
-        struct Info right = find(root->right);
-        struct Info curr;
-        if(left.mx < root-> val && right.mn > root->val && left.isBst && right.isBst){
-            curr.isBst = 1;
-            curr.sum = left.sum + right.sum + root->val;
-            curr.mx = max(right.mx, root->val);
-            curr.mn = min(left.mn, root->val);
-            ans = max(ans, curr.sum);
+        // Empty tree is always BST
+        if (root == NULL) {
+
+            return {true, 0, INT_MAX, INT_MIN};
         }
-        else{
-            curr.isBst = 0;
-            curr.sum = max(left.sum, right.sum);
+
+        // Left subtree ki information
+        NodeInfo left = solve(root->left);
+
+        // Right subtree ki information
+        NodeInfo right = solve(root->right);
+
+        // Check karo current subtree BST hai ya nahi
+        if (left.isBST &&
+            right.isBST &&
+            root->val > left.maxValue &&
+            root->val < right.minValue) {
+
+            int currentSum = left.sum + right.sum + root->val;
+
+            // Answer update
+            maxSum = max(maxSum, currentSum);
+
+            return {
+
+                true,
+
+                currentSum,
+
+                min(root->val, left.minValue),
+
+                max(root->val, right.maxValue)
+
+            };
         }
-        return curr;
+
+        // BST nahi hai
+        return {false, 0, 0, 0};
     }
-public:
+
     int maxSumBST(TreeNode* root) {
-        find(root);
-        return ans;
+
+        solve(root);
+
+        return maxSum;
     }
 };
