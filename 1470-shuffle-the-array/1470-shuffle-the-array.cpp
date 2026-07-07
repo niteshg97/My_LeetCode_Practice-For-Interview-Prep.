@@ -1,20 +1,27 @@
-#include <bit>
-#include <vector>
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
-    std::vector<int> shuffle(std::vector<int>& nums, int n) {
-        constexpr unsigned int max_value = 1000;
-        const int bit_width = std::bit_width(max_value);
-        const int mask = (1 << bit_width) - 1;
+    vector<int> shuffle(vector<int>& nums, int n) {
+        // Find the maximum value in the array
+        unsigned int maxVal = *max_element(nums.begin(), nums.end());
 
-        for (int i = 0, j = 0; i < n; ++i, j += 2) {
-            nums[j] |= (nums[i] & mask) << bit_width;
-            nums[j + 1] |= (nums[i + n] & mask) << bit_width;
+        // Number of bits required to represent maxVal
+        int bitWidth = std::bit_width(maxVal);
+
+        // Mask with bitWidth number of 1's
+        unsigned int mask = (1u << bitWidth) - 1;
+
+        // Pack the new values into the higher bits
+        for (int i = 0, j = 0; i < n; i++, j += 2) {
+            nums[j]     |= (nums[i] & mask) << bitWidth;
+            nums[j + 1] |= (nums[i + n] & mask) << bitWidth;
         }
 
-        for (int i = 0; i < n * 2; ++i) {
-            nums[i] >>= bit_width;
+        // Extract the new values
+        for (int i = 0; i < 2 * n; i++) {
+            nums[i] >>= bitWidth;
         }
 
         return nums;
