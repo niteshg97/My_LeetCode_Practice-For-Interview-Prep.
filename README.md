@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
+| [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2149-rearrange-array-elements-by-sign) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
