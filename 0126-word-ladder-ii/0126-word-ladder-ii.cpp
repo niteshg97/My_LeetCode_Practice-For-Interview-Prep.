@@ -1,98 +1,64 @@
 class Solution {
 public:
-    vector<vector<string>> ans;
-    unordered_map<string, vector<string>> parent;
+    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
+        unordered_set<string> dict(wordList.begin(), wordList.end());
+        vector<vector<string>> ans;
 
-    void buildPaths(string word, string beginWord,
-                    vector<string>& path) {
+        if (!dict.count(endWord)) return ans;
 
-        if (word == beginWord) {
-            vector<string> temp = path;
-            reverse(temp.begin(), temp.end());
-            ans.push_back(temp);
-            return;
-        }
-
-        for (string &par : parent[word]) {
-            path.push_back(par);
-            buildPaths(par, beginWord, path);
-            path.pop_back();
-        }
-    }
-
-    vector<vector<string>> findLadders(string beginWord,
-                                       string endWord,
-                                       vector<string>& wordList) {
-
-        unordered_set<string> words(wordList.begin(), wordList.end());
-
-        if (!words.count(endWord))
-            return {};
-
-        queue<string> q;
-        q.push(beginWord);
-
-        unordered_set<string> visited;
-        visited.insert(beginWord);
-
+        unordered_map<string, vector<string>> parent;
+        unordered_set<string> cur{beginWord};
         bool found = false;
 
-        while (!q.empty() && !found) {
+        while (!cur.empty() && !found) {
+            for (auto &w : cur) dict.erase(w);
 
-            int size = q.size();
-            unordered_set<string> levelVisited;
+            unordered_set<string> nxt;
 
-            while (size--) {
+            for (auto word : cur) {
+                string s = word;
 
-                string word = q.front();
-                q.pop();
+                for (int i = 0; i < s.size(); i++) {
+                    char old = s[i];
 
-                string original = word;
+                    for (char c = 'a'; c <= 'z'; c++) {
+                        s[i] = c;
 
-                for (int i = 0; i < word.size(); i++) {
+                        if (!dict.count(s)) continue;
 
-                    char old = word[i];
+                        nxt.insert(s);
+                        parent[s].push_back(word);
 
-                    for (char ch = 'a'; ch <= 'z'; ch++) {
-
-                        if (ch == old)
-                            continue;
-
-                        word[i] = ch;
-
-                        if (!words.count(word))
-                            continue;
-
-                        if (!visited.count(word)) {
-
-                            if (!levelVisited.count(word)) {
-                                q.push(word);
-                                levelVisited.insert(word);
-                            }
-
-                            parent[word].push_back(original);
-
-                            if (word == endWord)
-                                found = true;
-                        }
+                        if (s == endWord) found = true;
                     }
 
-                    word[i] = old;
+                    s[i] = old;
                 }
             }
 
-            for (auto &w : levelVisited)
-                visited.insert(w);
+            cur = move(nxt);
         }
 
-        if (!found)
-            return {};
+        if (!found) return ans;
 
-        vector<string> path;
-        path.push_back(endWord);
+        vector<string> path{endWord};
 
-        buildPaths(endWord, beginWord, path);
+        function<void(string)> dfs = [&](string word) {
+            if (word == beginWord) {
+                vector<string> temp = path;
+                reverse(temp.begin(), temp.end());
+                ans.push_back(temp);
+                return;
+            }
 
+            for (auto &p : parent[word]) {
+                path.push_back(p);
+                dfs(p);
+                path.pop_back();
+            }
+        };
+
+        dfs(endWord);
         return ans;
     }
 };
