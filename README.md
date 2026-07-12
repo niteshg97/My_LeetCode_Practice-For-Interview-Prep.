@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2149-rearrange-array-elements-by-sign) |
+| [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2446-determine-if-two-events-have-conflict) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Backtracking
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
+| [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2446-determine-if-two-events-have-conflict) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2483-minimum-penalty-for-a-shop) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0231-power-of-two) |
 | [0861-score-after-flipping-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0861-score-after-flipping-matrix) |
+| [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Queue
 |  |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
+| [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
 ## Graph Theory
 |  |
 | ------- |
