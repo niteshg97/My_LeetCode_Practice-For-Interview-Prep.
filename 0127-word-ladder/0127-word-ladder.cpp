@@ -1,53 +1,52 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        std::unordered_set<std::string> words(
+            wordList.begin(), wordList.end());
 
-        unordered_set<string> words(wordList.begin(), wordList.end());
+        if (!words.contains(endWord)) return 0;
 
-        // End word must exist
-        if (words.find(endWord) == words.end())
-            return 0;
+        std::unordered_map<std::string, int> bv;
+        std::unordered_map<std::string, int> ev;
+        bv[beginWord] = 1;
+        ev[endWord] = 1;
 
-        queue<pair<string, int>> q;
-        q.push({beginWord, 1});
+        std::queue<std::string> bq;
+        std::queue<std::string> eq;
+        bq.push(beginWord);
+        eq.push(endWord);
 
-        // Mark beginWord as visited if present
-        words.erase(beginWord);
+        while (!bq.empty() && !eq.empty()) {
+            if (bq.size() > eq.size()) {
+                std::swap(bq, eq);
+                std::swap(bv, ev);
+            }
 
-        while (!q.empty()) {
+            for (int j = bq.size(); j > 0; --j) {
+                std::string word = bq.front();
 
-            auto [word, steps] = q.front();
-            q.pop();
+                for (int i = 0; i < word.size(); ++i) {
+                    const char tmp = word[i];
 
-            if (word == endWord)
-                return steps;
+                    for (char c = 'a'; c <= 'z'; ++c) {
+                        word[i] = c;
+                        if (!words.contains(word) || tmp == c) continue;
 
-            // Try changing every character
-            for (int i = 0; i < word.size(); i++) {
-
-                char original = word[i];
-
-                for (char ch = 'a'; ch <= 'z'; ch++) {
-
-                    if (ch == original)
-                        continue;
-
-                    word[i] = ch;
-
-                    if (words.find(word) != words.end()) {
-
-                        q.push({word, steps + 1});
-
-                        // Mark visited
-                        words.erase(word);
+                        if (ev.contains(word)) {
+                            return bv[bq.front()] + ev[word];
+                        }
+                        if (bv.contains(word)) continue;
+                        bv[word] = bv[bq.front()] + 1;
+                        // words.erase(word);
+                        bq.push(word);
                     }
+
+                    word[i] = tmp;
                 }
 
-                // Restore original character
-                word[i] = original;
+                bq.pop();
             }
         }
-
         return 0;
     }
 };
