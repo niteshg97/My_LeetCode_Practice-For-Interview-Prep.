@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0135-candy) |
 | [0136-single-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0239-sliding-window-maximum) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0733-flood-fill) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
 | [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
