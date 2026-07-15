@@ -1,39 +1,55 @@
 class Solution {
 public:
-    
-    bool isCycleDFS(int src, vector<bool>& vis, vector<bool>& recPath, vector<vector<int>>& edges) {
-        vis[src] = true;
-        recPath[src] = true;
+    bool dfs(int node,
+             vector<vector<int>>& adj,
+             vector<int>& vis,
+             vector<int>& pathVis) {
 
-        for (int i = 0; i < edges.size(); i++) {
-            int u = edges[i][0];
-            int v = edges[i][1];
+        vis[node] = 1;
+        pathVis[node] = 1;
 
-            if (u == src) {
-                if (!vis[v]) {
-                    if (isCycleDFS(v, vis, recPath, edges))
-                        return true;
-                }
-                else if (recPath[v]) {
+        for (int neigh : adj[node]) {
+
+            if (!vis[neigh]) {
+
+                if (dfs(neigh, adj, vis, pathVis))
                     return true;
-                }
+            }
+            else if (pathVis[neigh]) {
+
+                return true;
             }
         }
+        // Remove from current recursion path
+        pathVis[node] = 0;
 
-        recPath[src] = false; 
         return false;
     }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
-    bool canFinish(int n, vector<vector<int>>& edges) {
-        vector<bool> vis(n, false);      
-        vector<bool> recPath(n, false); 
+        vector<vector<int>> adj(numCourses);
 
-        for (int i = 0; i < n; i++) {
+        // prerequisite -> course
+        for (auto &edge : prerequisites) {
+
+            int course = edge[0];
+            int prereq = edge[1];
+
+            adj[prereq].push_back(course);
+        }
+
+        vector<int> vis(numCourses, 0);
+        vector<int> pathVis(numCourses, 0);
+
+        for (int i = 0; i < numCourses; i++) {
+
             if (!vis[i]) {
-                if (isCycleDFS(i, vis, recPath, edges))
+
+                if (dfs(i, adj, vis, pathVis))
                     return false;
             }
         }
+
         return true;
     }
 };
