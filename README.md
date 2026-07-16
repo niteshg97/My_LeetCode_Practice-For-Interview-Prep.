@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2104-sum-of-subarray-ranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2149-rearrange-array-elements-by-sign) |
 | [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
+| [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2446-determine-if-two-events-have-conflict) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
+| [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
 ## Dynamic Programming
@@ -782,10 +784,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
+| [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
+| [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
