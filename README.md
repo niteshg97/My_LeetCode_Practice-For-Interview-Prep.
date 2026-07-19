@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1539-kth-missing-positive-number) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
 | [1901-find-a-peak-element-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1901-find-a-peak-element-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1765-map-of-highest-peak) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -593,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
 ## Tree
 |  |
@@ -778,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [2157-groups-of-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2157-groups-of-strings) |
 ## Graph Theory
 |  |
