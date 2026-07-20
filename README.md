@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
@@ -810,5 +814,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
