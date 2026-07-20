@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0907-sum-of-subarray-minimums) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
 ## Tree
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
 | [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
 ## Topological Sort
@@ -802,4 +807,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0802-find-eventual-safe-states) |
 | [2392-build-a-matrix-with-conditions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2392-build-a-matrix-with-conditions) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
