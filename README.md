@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0040-combination-sum-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0085-maximal-rectangle) |
