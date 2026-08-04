@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0033-search-in-rotated-sorted-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0017-letter-combinations-of-a-phone-number) |
