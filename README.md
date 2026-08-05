@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0135-candy) |
 | [0136-single-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0136-single-number) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0435-non-overlapping-intervals) |
