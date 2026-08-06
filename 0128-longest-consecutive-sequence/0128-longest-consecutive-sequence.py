@@ -2,7 +2,9 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         my_set = set()
         # Add all the elements in mySet ...
-        my_set.update(nums)
+        n = len(nums)
+        for i in range (0, n):
+            my_set.add(nums[i])
         # traverse in the set and ccheck the prev elements
         longest = 0
         for val in my_set:
