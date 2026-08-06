@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0135-candy) |
 | [0136-single-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0136-single-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0160-intersection-of-two-linked-lists) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0547-number-of-provinces) |
