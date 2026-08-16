@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0460-lfu-cache](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0981-time-based-key-value-store) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0992-subarrays-with-k-different-integers) |
