@@ -859,4 +859,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
