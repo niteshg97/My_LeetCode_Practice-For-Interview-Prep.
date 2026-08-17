@@ -10,14 +10,11 @@ class Solution:
                 #Remove smaller values from the back
             while dq and nums[dq[-1]] < nums[r]:
                 dq.pop()
-
             # 3. Add current index
             dq.append(r)
-
             # 4. Window is ready
             if r >= k - 1:
                 ans.append(nums[dq[0]])
-
         return ans
 
         
