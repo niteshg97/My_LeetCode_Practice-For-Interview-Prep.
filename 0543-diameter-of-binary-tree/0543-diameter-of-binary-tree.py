@@ -12,9 +12,7 @@ class Solution:
                 return 0
             left = dfs(root.left)
             right = dfs(root.right)
-            # Diameter passing through current node
             ans[0] = max(ans[0], left + right)
-            # Return height of current node
             return 1 + max(left, right)
         dfs(root)
 
