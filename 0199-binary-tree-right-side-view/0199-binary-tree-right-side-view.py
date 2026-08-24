@@ -16,9 +16,9 @@ class Solution:
             node = None
             while(n):
                 node = q.popleft()
-                if node.left is not None:
+                if (node.left != None):
                     q.append(node.left)
-                if node.right is not None:
+                if (node.right != None):
                     q.append(node.right)
                 n = n - 1 
             result.append(node.val)
