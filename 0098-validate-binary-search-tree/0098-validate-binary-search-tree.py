@@ -13,7 +13,6 @@ class Solution:
             if not (low < temp.val < high):
                 return False
 
-            return solve(temp.left, low, temp.val) and solve(
-                temp.right, temp.val, high ) 
-                
+            return solve(temp.left, low, temp.val) and solve(temp.right, temp.val, high)
+
         return solve(root, float("-inf"), float("inf"))
