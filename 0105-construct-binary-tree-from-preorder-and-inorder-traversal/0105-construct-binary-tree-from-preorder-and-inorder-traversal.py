@@ -10,10 +10,10 @@ class Solution:
             return None
         root_val = preorder[0] #find root value 
         root = TreeNode(root_val) #create root node
-        idx = inorder.index(root_val)
+        idx = inorder.index(root_val) #get the index of the root in inorder list
 
         root.left = self.buildTree(preorder[1: idx+1] , inorder[: idx])
-        root.right = self.buildTree(preorder[idx+1 : ] , inorder[idx+1 : ])
+        root.right = self.buildTree(preorder[idx+1 : ] , inorder[idx+1 :])
     
         return root
 
