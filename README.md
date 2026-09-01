@@ -892,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
