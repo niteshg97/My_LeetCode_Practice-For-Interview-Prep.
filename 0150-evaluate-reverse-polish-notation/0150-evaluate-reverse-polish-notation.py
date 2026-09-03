@@ -6,7 +6,7 @@ class Solution:
 
         stack = []
 
-        for s in tokens:   # FIX 1: iterate over tokens, not stack
+        for s in tokens:   
 
             if s == '+':
 
