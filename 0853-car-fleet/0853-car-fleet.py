@@ -8,4 +8,4 @@ class Solution:
             if not stack or time_taken > stack[-1]:
                 stack.append(time_taken)
         
-        return len(stack)
+        return len(stack) 
