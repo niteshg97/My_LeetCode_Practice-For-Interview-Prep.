@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1004-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0781-rabbits-in-forest) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1922-count-good-numbers) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0950-reveal-cards-in-increasing-order) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1402-reducing-dishes](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1402-reducing-dishes) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0703-kth-largest-element-in-a-stream](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1046-last-stone-weight) |
 | [1631-path-with-minimum-effort](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1631-path-with-minimum-effort) |
 | [2182-construct-string-with-repeat-limit](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2182-construct-string-with-repeat-limit) |
@@ -767,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
@@ -909,4 +915,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
