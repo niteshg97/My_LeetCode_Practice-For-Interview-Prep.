@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2596-check-knight-tour-configuration) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
+| [3875-construct-uniform-parity-array-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1922-count-good-numbers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1922-count-good-numbers) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/2614-prime-in-diagonal) |
+| [3875-construct-uniform-parity-array-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
