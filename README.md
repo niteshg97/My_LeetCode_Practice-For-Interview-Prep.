@@ -948,5 +948,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0577-employee-bonus](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
