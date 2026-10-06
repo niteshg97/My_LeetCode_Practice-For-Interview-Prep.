@@ -945,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1378-replace-employee-id-with-the-unique-identifier) |
