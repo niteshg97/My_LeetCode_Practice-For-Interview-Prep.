@@ -942,4 +942,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
