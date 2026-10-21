@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0126-word-ladder-ii) |
