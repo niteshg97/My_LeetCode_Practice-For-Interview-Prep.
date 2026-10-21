@@ -4,7 +4,6 @@ public:
         bool seenDigit = false;
         bool seenExponent = false;
         bool seenDot = false;
-        
         for (int i = 0; i < s.length(); ++i) {
             char c = s[i];
             
