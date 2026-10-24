@@ -11,6 +11,6 @@ class Solution:
             subset.pop()
             dfs(i + 1)
 
-        dfs(0)
+        dfs(0) ## cal function by passing the index 0 and then return the result ...
         return res
         
