@@ -1,38 +1,35 @@
 class Solution {
-private:
-    void findCombinations(int ind,string &digits,vector<string> &mapping,string &ds,vector<string> &ans) {
-        if (ind == digits.size()) {
-            ans.push_back(ds);
+public:
+    vector<string>res;
+    void solve(int idx , string &digits , string &temp , unordered_map<char ,string> &mp){
+        if(idx == digits.length()){
+            res.push_back(temp);
             return;
         }
-        string letters = mapping[digits[ind] - '0'];
-
-        for (int i = 0; i < letters.size(); i++) {
-            ds.push_back(letters[i]);
-            findCombinations(ind + 1, digits, mapping, ds, ans);
-            ds.pop_back(); // backtrack
+        char ch = digits[idx];
+        string str = mp[ch];
+        for(int i = 0 ; i< str.length() ; i++){
+            temp.push_back(str[i]);
+            solve(idx+1 , digits ,temp , mp);
+            temp.pop_back();
         }
     }
-public:
     vector<string> letterCombinations(string digits) {
-        vector<string> ans;
-
-        if (digits.empty()) return ans;
-
-        vector<string> mapping = {
-            "",     // 0
-            "",     // 1
-            "abc",  // 2
-            "def",  // 3
-            "ghi",  // 4
-            "jkl",  // 5
-            "mno",  // 6
-            "pqrs", // 7
-            "tuv",  // 8
-            "wxyz"  // 9
-        };
-        string ds;
-        findCombinations(0, digits, mapping, ds, ans);
-        return ans;
+        if(digits.length() == 0){
+            return {};
+        }
+        // creating mapp to store the digits and its char  values...
+        unordered_map<char,string>mp;
+        mp['2'] = "abc";
+        mp['3'] = "def";
+        mp['4'] = "ghi";
+        mp['5'] = "jkl";
+        mp['6'] = "mno";
+        mp['7'] = "pqrs";
+        mp['8'] = "tuv";
+        mp['9'] = "wxyz";
+        string temp = "";
+        solve(0 , digits , temp , mp);
+        return res;
     }
 };
