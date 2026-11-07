@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0096-unique-binary-search-trees) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0079-word-search) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0867-transpose-matrix) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/niteshg97/My_LeetCode_Practice-For-Interview-Prep./tree/master/0950-reveal-cards-in-increasing-order) |
